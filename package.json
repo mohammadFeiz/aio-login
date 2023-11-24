@@ -1,0 +1,30 @@
+{
+  "name": "aio-login",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@mdi/js": "^7.0.96",
+    "@mdi/react": "^1.6.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-virtual-dom": "^4.0.1",
+    "aio-popup": "^3.0.2",
+    "aio-storage": "^4.0.1",
+    "aio-input": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadFeiz/aio-login.git"
+  },
+  "author": "mohammad sharif feiz feiz.ms@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadFeiz/aio-login/issues"
+  },
+  "homepage": "https://github.com/mohammadFeiz/aio-login#readme"
+}
