@@ -1,6 +1,6 @@
 {
   "name": "aio-login",
-  "version": "6.0.2",
+  "version": "6.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,13 +9,10 @@
   "dependencies": {
     "@mdi/js": "^7.0.96",
     "@mdi/react": "^1.6.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "react-virtual-dom": "^4.0.1",
+    "react-virtual-dom": "^4.0.2",
     "aio-popup": "^3.0.5",
     "aio-storage": "^4.0.1",
-    "aio-input": "^8.0.2"
+    "aio-input": "^8.0.3"
   },
   "repository": {
     "type": "git",
